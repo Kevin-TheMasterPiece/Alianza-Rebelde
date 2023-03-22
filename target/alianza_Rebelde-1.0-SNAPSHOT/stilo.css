@@ -1,0 +1,50 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 21/03/2023, 10:25:34 a. m.
+    Author     : WORKING
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    background-image: url('https://frikipolis.com/wp-content/uploads/2021/06/E0ilrTFXMAAmOHw.jpg')
+}
+.form-ing{
+    margin: auto;  
+    background: #2e3d4d;
+    width: 700px;
+    margin-top: 5px;
+    border-radius: 5px;
+    padding: 30px;
+    box-shadow: 7px 13px 37px #ffffff;
+    font-size: 20px;
+    border: 5px solid #82fcff;
+    color: white;
+}
+.inp{
+    padding: 5px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    width: 10%;
+    background: #24303c;
+    color: white;
+    border: 1px solid #339ea0;
+  }
+
+
+
+.form-ing #btn {
+    width: 100%;
+   font-size: 16px;
+   background: #339ea0;
+   border-radius: 4px;
+   border: 1px solid #82fcff;
+   padding: 5px;
+}
